@@ -1,0 +1,29 @@
+---
+title: "Lecture 01"
+output: html_notebook
+---
+
+## Rajesh Sahasrabuddhe    
+
+Why statistics? To develop inferences on the data
+
+Week 1 (Lecture 01 and 02 cover Chapters 1 though 3)
+
+[Link to GitHub Repository](https://github.com/rmcelreath/statrethinking_winter2019)
+
+Goals for the course around 14:20
+
+[Stan Link](http://mc-stan.org)
+
+```{r rs:code to install rethinking}
+install.packages(c('coda', 'mvtnorm', 'devtools', 'loo', 'remotes'))
+remotes::install_github('rmcelreath/rethinking')
+```
+
+Karl Popper: What is science?
+
+Bayesian Data Analysis (29:40)
+What is Bayesian Data Analysis (33:10)
+The example: The Garden on Forking Data (43:30)
+
+## [Add your name here]
